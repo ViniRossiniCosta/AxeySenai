@@ -236,7 +236,6 @@ include '../../padroes/head.php';
                 </div>
             </div>
             <div class="d-flex justify-content-between">
-                
                 <button type="submit" id="saveEvent" class="btn btn-primary">Salvar</button>
                 <button type="button" class="btn btn-secondary close-popup">Fechar</button>
             </div>
